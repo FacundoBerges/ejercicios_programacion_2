@@ -1,0 +1,15 @@
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.exe
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.deps.json
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.runtimeconfig.json
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\bin\Debug\net6.0\Ejercicio_02.pdb
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.csproj.AssemblyReference.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.AssemblyInfoInputs.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.AssemblyInfo.cs
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.csproj.CoreCompileInputs.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\refint\Ejercicio_02.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.pdb
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\Ejercicio_02.genruntimeconfig.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_02\Ejercicio_02\obj\Debug\net6.0\ref\Ejercicio_02.dll
