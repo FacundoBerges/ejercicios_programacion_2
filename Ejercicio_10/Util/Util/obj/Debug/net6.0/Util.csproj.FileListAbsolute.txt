@@ -1,0 +1,5 @@
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Util\Util\obj\Debug\net6.0\Util.csproj.AssemblyReference.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Util\Util\obj\Debug\net6.0\Util.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Util\Util\obj\Debug\net6.0\Util.AssemblyInfoInputs.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Util\Util\obj\Debug\net6.0\Util.AssemblyInfo.cs
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Util\Util\obj\Debug\net6.0\Util.csproj.CoreCompileInputs.cache
