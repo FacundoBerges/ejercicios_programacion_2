@@ -1,0 +1,15 @@
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.csproj.AssemblyReference.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.AssemblyInfoInputs.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.AssemblyInfo.cs
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.csproj.CoreCompileInputs.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\bin\Debug\net6.0\Ejercicio_10.exe
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\bin\Debug\net6.0\Ejercicio_10.deps.json
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\bin\Debug\net6.0\Ejercicio_10.runtimeconfig.json
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\bin\Debug\net6.0\Ejercicio_10.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\bin\Debug\net6.0\Ejercicio_10.pdb
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\refint\Ejercicio_10.dll
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.pdb
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\Ejercicio_10.genruntimeconfig.cache
+C:\Users\facup\Desktop\Cursos\UTN\ProgramacionLaboratorio2\Ejercicio_10\Ejercicio_10\obj\Debug\net6.0\ref\Ejercicio_10.dll
